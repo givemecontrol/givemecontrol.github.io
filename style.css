@@ -1,0 +1,27 @@
+.ilgar{   
+    border-radius: 5%;
+}
+.shapka{
+    font-family: 'Smooch', cursive;
+}
+table { 
+    width: 100%; 
+    border: 4px double black; 
+    border-collapse: collapse; 
+    border-spacing: box;
+   }
+   th { 
+    text-align: left; 
+    background: #ccc; 
+    padding: 5px; 
+    border: 1px solid black; 
+   }
+   td { 
+    padding: 5px; 
+    border: 1px solid black; 
+   }
+   .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+   }
